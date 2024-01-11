@@ -1,0 +1,26 @@
+h1{ text-align: center; }
+
+
+
+#page {
+    max-width:900px ;
+    min-width:600px ;
+    margin: 2px 2px 2px 2px ;
+    padding: 2px 2px 2px 2px ;
+    border: 3px double #070707;
+    background-color: #faebd7;
+ }
+
+
+
+
+
+
+
+
+
+
+li { 
+    display: inline;
+    margin: 0px 3px;
+}
